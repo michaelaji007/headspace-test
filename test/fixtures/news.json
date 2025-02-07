@@ -1,0 +1,19 @@
+{
+  "status": "ok",
+  "totalResults": 62,
+  "articles": [
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "Jordan Valinsky",
+      "title": "LG is sending free stickers to 500,000 customers who bought its recalled stove that caused 28 house fires - CNN",
+      "description": "LG has recalled \\electric ranges that have been involved in at least 28 fires and eight burn injuries, with five fires causing property damage of more than $340,000 and three fires resulting in pet deaths.",
+      "url": "https://www.cnn.com/2025/02/06/business/lg-electric-ranges-recall/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/large01-copy.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2025-02-06T17:11:00Z",
+      "content": "LG is recalling 500,000 electric ranges that have been involved in at least 28 fires and caused several injuries. However, customers who comply arent receiving refunds or exchanges theyre getting sti… [+1108 chars]"
+    }
+  ]
+}
